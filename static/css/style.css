@@ -99,7 +99,7 @@ textarea {
     width: 877px;
     height: 54px;
     line-height: 20px;
-    border: 1px solid rgba(217, 217, 217, 0.96);
+    border: 1px solid rgba(249, 147, 74, 0.96);
 }
 .search-logo {
     width: 40px;
@@ -268,7 +268,7 @@ textarea {
 .jj-list-tit {
     font-size: 16px;
     line-height: 25px;
-    color: rgba(49, 70, 89, 1);
+    color: rgba(249, 147, 74, 1);
     font-weight: bold;
 }
 .jj-list-con {
@@ -319,8 +319,8 @@ textarea {
 
 .jj-list-link {
     display: block;
-    background: rgba(230, 247, 255, 0.96);
-    color:rgba(49, 70, 89, 1);
+    background: rgba(249, 147, 74, 0.96);
+    color:rgba(255, 255, 255, 1);
     font-size: 13px;
     text-align: center;
     line-height: 44px;
